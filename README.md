@@ -5,7 +5,7 @@
 
 -->
 
-By [Author name](author URL goes here).
+By [Mary Dickson](http://www.marydickson.com).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
@@ -71,9 +71,11 @@ send us a pull request.
 
 ## Authors
 
-* Your Name (Your Github URL goes here)
+* Mary Dickson (https://github.com/marythought)
 * Additional Author's name (Their Github URL goes here)
 
+## Attribution
+* Readme template from [Stephanie Hekker](http://www.stephaniehekker.com/why-you-should-write-a-readme-for-your-application/)
 
 ## Contributing
 
@@ -84,6 +86,7 @@ send us a pull request.
 5. Create new Pull Request
 
 
+
 ## License
 
-Your Licensing Information goes here. Example: MIT/X11.
+MIT/X11
